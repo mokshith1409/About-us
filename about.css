@@ -1,0 +1,145 @@
+
+.header
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(40, 38, 38, 0.7),rgb(0, 0, 0.6)),url(https://cache.careers360.mobi/media/article_images/2022/2/24/IIT-Hyderabad-branch-wise-placement-salary-featured-images.jpg);
+    background-size: cover;
+    
+    overflow: hidden;
+    background-position: center;
+    padding: 55px;
+    position: relative;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color:rgb(0, 0, 0); 
+    
+
+}
+img{cursor: pointer;
+
+}
+
+nav ul li{
+    list-style-type:none;
+    display: inline-block;
+    padding: 10px 30px;
+    background: rgb(14, 22, 35);
+    cursor: pointer;
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+} 
+nav ul li a:hover{
+    color:brown;
+    transition: .3s;
+}
+.abt{
+color: rgb(192, 213, 232);
+font-style: normal;
+
+justify-content: center;
+text-align: center;
+font-family: poppins;
+padding: 50px 20%;
+font-size: 22px;
+
+}
+span{
+    color: brown;
+}
+body{
+    background: rgb(16, 23, 26);
+    overflow-x: hidden;
+}
+.vis{
+    
+    color:  rgb(192, 213, 232);
+    font-style: normal;
+font-size: 22px;
+justify-content: center;
+text-align: center;
+font-family: poppins;
+padding: 50px ;}
+.logo{
+font-size: 50px;
+}
+.pic{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(40, 38, 38, 0.7),rgb(0, 0, 0.6)),url(https://www.collegebatch.com/static/clg-gallery/indian-institute-of-technology-hyderabad-239584.jpg) ;
+    background-size: cover;
+    background-position: center;
+    padding: 55px;
+    position: relative;
+    overflow:hidden ;
+
+}
+.list
+{
+    padding: 10px 50px;
+}
+.lg1{
+    font-size: 50px;
+    padding:  50px;
+    text-align: center;
+}
+.wrap{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(50, 51, 26, 0.7),rgb(11, 11, 5)),url(https://ir.iith.ac.in/assets/images/home/Jaykishan%20Pipaliya.jpeg) ;
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    position: relative;
+    overflow:hidden ;
+    color:  rgb(192, 213, 232);
+    justify-content: center;
+    text-align: center;
+    
+
+}
+.lg2{
+    font-size: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    font-size: 22px;
+    align-items: center;
+}
+.card
+{
+    height: 300px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+    
+
+}
+.intro{
+    height: 70px;
+    width: 350px;
+    padding: 6px;
+    box-sizing: border-box;
+    bottom: 240px;
+    
+    
+}
+.h1{
+margin: 10px;
+
+}
+
+.card:hover{
+    cursor: pointer;
+}
